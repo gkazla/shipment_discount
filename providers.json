@@ -1,0 +1,18 @@
+[
+  {
+    "provider_name": "SimoSiuntos",
+    "shipment_prices": {
+      "S": 1.5,
+      "M": 4.9,
+      "L": 6.9
+    }
+  },
+  {
+    "provider_name": "JonasShipping",
+    "shipment_prices": {
+      "S": 2,
+      "M": 3,
+      "L": 4
+    }
+  }
+]

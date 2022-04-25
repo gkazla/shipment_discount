@@ -1,0 +1,18 @@
+[
+  {
+    "provider_name": "DHL",
+    "shipment_prices": {
+      "S": 20,
+      "M": 30,
+      "L": 40
+    }
+  },
+  {
+    "provider_name": "FedEx",
+    "shipment_prices": {
+      "S": 19.99,
+      "M": 36.99,
+      "L": 55.19
+    }
+  }
+]
